@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T02:00:05.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="yBW9nGS8E2B62Ofln1n1" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T04:06:12.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5L_GM0b1N-v4TW3wLprz" version="13.10.0" type="github">
   <diagram id="1as-1_g_z5-fIdYsQ-eC" name="Page-1">
-    <mxGraphModel dx="2912" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,7 +236,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaG_IVPDNWVPYd7C0m55-147" value="Customer" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="140" width="180" height="280" as="geometry" />
+          <mxGeometry x="-10" y="120" width="180" height="280" as="geometry" />
         </mxCell>
         <mxCell id="LaG_IVPDNWVPYd7C0m55-148" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LaG_IVPDNWVPYd7C0m55-147" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -341,7 +341,7 @@
           <mxGeometry x="30" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LaG_IVPDNWVPYd7C0m55-182" value="Insurance" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="480" width="180" height="160" as="geometry" />
+          <mxGeometry x="-140" y="480" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LaG_IVPDNWVPYd7C0m55-183" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LaG_IVPDNWVPYd7C0m55-182" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -349,7 +349,7 @@
         <mxCell id="LaG_IVPDNWVPYd7C0m55-184" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="LaG_IVPDNWVPYd7C0m55-183" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LaG_IVPDNWVPYd7C0m55-185" value="InsuranceID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="LaG_IVPDNWVPYd7C0m55-183" vertex="1">
+        <mxCell id="LaG_IVPDNWVPYd7C0m55-185" value="insuranceID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="LaG_IVPDNWVPYd7C0m55-183" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaG_IVPDNWVPYd7C0m55-186" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LaG_IVPDNWVPYd7C0m55-182" vertex="1">
@@ -368,15 +368,6 @@
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaG_IVPDNWVPYd7C0m55-191" value="insuranceTypeID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="LaG_IVPDNWVPYd7C0m55-189" vertex="1">
-          <mxGeometry x="30" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LaG_IVPDNWVPYd7C0m55-192" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LaG_IVPDNWVPYd7C0m55-182" vertex="1">
-          <mxGeometry y="120" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LaG_IVPDNWVPYd7C0m55-193" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="LaG_IVPDNWVPYd7C0m55-192" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LaG_IVPDNWVPYd7C0m55-194" value="insurancePrice" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="LaG_IVPDNWVPYd7C0m55-192" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaG_IVPDNWVPYd7C0m55-208" value="vendorID" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
@@ -404,12 +395,6 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="370" y="10" as="sourcePoint" />
             <mxPoint x="230" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LaG_IVPDNWVPYd7C0m55-262" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.006;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rivJpe2qeoZ3pOPvyMkI-3" target="LaG_IVPDNWVPYd7C0m55-26" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="50" y="-120" as="sourcePoint" />
-            <mxPoint x="150" y="-220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LaG_IVPDNWVPYd7C0m55-263" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LaG_IVPDNWVPYd7C0m55-33" target="LaG_IVPDNWVPYd7C0m55-91" edge="1">
@@ -446,6 +431,12 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="30" y="700" as="sourcePoint" />
             <mxPoint x="90" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve2HZvK5wl6pYD0CYipM-5" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LaG_IVPDNWVPYd7C0m55-27" target="LaG_IVPDNWVPYd7C0m55-23">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="40" y="90" as="sourcePoint" />
+            <mxPoint x="140" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
